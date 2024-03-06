@@ -1,0 +1,35 @@
+.optionsButtons {
+    padding: 10px;
+    border: none;
+    background-color: transparent;
+    outline: none;
+    cursor: pointer;
+    color: black;
+    font-size: 1.2rem;
+    text-transform: capitalize;
+    font-family: var(----main-font-family);
+    
+
+  }
+  .optionsButtonsDiv{
+    width: 80%;
+    display: flex;
+    align-items: center;
+    background-color: var(--main-background-color);
+    padding: 7px 5px;
+    margin: 2px auto;
+    cursor: pointer;
+    box-shadow: rgba(0, 0, 0, 0.05) 0px 6px 24px 0px, rgba(0, 0, 0, 0.08) 0px 0px 0px 1px;  
+    border-radius: 8px;
+
+  }
+  .optionsButtonsDiv:hover {
+    background-color: var(--main-hover-color);
+  }
+  .optonsIcon{
+    margin: 0px 15px;
+    cursor: pointer;
+    text-align: center;
+    margin-top: 7px;
+
+  }

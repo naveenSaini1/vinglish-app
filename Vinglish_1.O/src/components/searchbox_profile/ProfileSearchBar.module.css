@@ -1,0 +1,20 @@
+.searchBar {
+    width: 40%;
+    background-color: #f1f1f1;
+    padding: 10px;
+    border-radius: 5px;
+    border: 0.1px solid orange;
+  }
+  
+  .searchBar input[type="search"] {
+    width: 100%;
+    border: none;
+    background-color: transparent;
+    outline: none;
+    font-size: 16px;
+  }
+  
+  .searchBar input[type="search"]::placeholder {
+    color: #999;
+  }
+  

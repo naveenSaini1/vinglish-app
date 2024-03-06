@@ -1,8 +1,11 @@
+import NavBar from "./layouts/header/navbar/NavBar"
+import "./App.css"
+import Home from "./pages/Home/Home"
 function App() {
 
   return (
     <>
-     <h1>Vinglish App</h1>
+    <Home/>
     </>
   )
 }

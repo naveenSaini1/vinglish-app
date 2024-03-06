@@ -1,0 +1,12 @@
+
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+:root {
+    --main-background-color: rgb(255,213,174);
+    --main-font-family: "Poppins", sans-serif;
+    --main-text-color: #333333;
+    --main-hover-color:rgb(255,122,0);
+  }
